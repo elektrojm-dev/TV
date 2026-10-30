@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0, TV+
+https://jireh-10-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8?dpssid=b21027267028689350d9ccc3d&sid=ba5t1l1xb2139768370369543b5eeeee4&ndvc=0
+#EXTINF:40, TVN - TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:0, MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:0, Chilevision
+https://jireh-13-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist_2500.m3u8?dpssid=b276498393699351d930f24&sid=ba5t1l1xb2752121047699c4aa13b527&ndvc=0
+#EXTINF:0, Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+#EXTINF:0, Canal 24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:0, T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, CHV Noticias
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+#EXTINF:0, TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Cultura
+https://redirector.dps.live/hls/13cultura/playlist.m3u8
+#EXTINF:0, 13 Go
+https://redirector.dps.live/hls/13viajes/playlist.m3u8
+#EXTINF:0, Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, ADN
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
